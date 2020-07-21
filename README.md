@@ -10,10 +10,11 @@ Generated copy of this documentation available on the website about.mspay.by or 
 
 ## Projects
 
-- [Package Builder](^1)
->	short description?
+#### [Package Builder](^1)
+short description
 
-- Payment Gateways
+#### [Payment Gateways](^2)
+short description
 
 - Public presentation of the entire project
 - Moving to Slim 4 and ADR Architecture - epic?
@@ -35,7 +36,8 @@ Generated copy of this documentation available on the website about.mspay.by or 
 
 
 table of services
-название, ссылки, репозитории
+название, ссылки, репозитории, описание
+
 
 ## Extras
 
@@ -43,3 +45,5 @@ table of services
 ## Технологии
 
 [^1]: Footnote
+[^2]: 
+[^3]: 
