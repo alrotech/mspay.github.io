@@ -43,13 +43,13 @@ Managing all customer's requests for any reason.
 
 Service usually is live environment, available for end-users. As well, based on the context of usage, service may mean a staging/testing environment or repository with a code of service. Below presented matrix of services and their sources and instances.
 
-Name | Live | Test | Repository | Description
+Name | Environment | Repository | Description
 ---|---|---|---|---
-Langing
-Extras
-Admin
-Client
-Data
+Data    | [Live](https://api.mspay.by) — [Test](https://mspay-api.herokuapp.com/) | https://github.com/mspay/service-api      | Backend API for marketplace
+Langing | [Live](https://mspay.by) — [Test](https://mspay.netlify.app)            | https://github.com/mspay/service-langing  | The main website of the payment solutions service
+Extras  | [Live](https://extras.mspay.by) — [Test]() | https://github.com/mspay/service-extras | Repository REST service for MODX, based on Slim Framework
+Admin   | [Live](https://manage.mspay.by) - [Test](https://cpmspay.netlify.app/)  | https://github.com/mspay/service-admin    | Admin dashboard. While development, it uses a temporary name and hosted on the Netlify
+Client  | [Live](https://client.mspay.by) - [Test](https://lkmspay.netlify.app/) | https://github.com/mspay/service-client | Client dashboard. While development, it uses a temporary name and hosted on the Netlify
 
 [^prj1]: https://github.com/orgs/mspay/projects/1
 [^prj2]: https://github.com/orgs/mspay/projects/2
