@@ -27,8 +27,17 @@ Development tools for generating MODX-compatible packages.
 ### [Users and Roles][prj2]
 Managing users, roles, scopes, authorization and authentication, JWT-processing and other related to users and their accounts work.
 
+- Users, Roles and Scopes models and API structure (API)
+- JWT Auth Implementation (API, js)
+- UI for user management (admin)
+- UI for user account (client)
+
 ### [Packages and Versions][prj5]
 Managing, uploading, updating and building the packages and their versions.
+
+- Packages and Versions models
+- UI for package management
+- Pulic package listing
 
 ### [Licenses and Protection][prj6]
 Managing licenses, packs of licenses, access keys, and all that replated to packages protection, including encryption.
@@ -36,8 +45,14 @@ Managing licenses, packs of licenses, access keys, and all that replated to pack
 ### [Billing and Payments][prj3]
 All work that is related to receiving money. Integration of payment system, setting prices and subscriptions, handling cashless payments.
 
+- UI for account payment information
+
 ### [Support Area][prj7]
 Managing all customer's requests for any reason.
+
+- Tickets models and structure (api)
+- UI for tickets management (admin)
+- UI for tickets creating (client)
 
 ## Services
 
