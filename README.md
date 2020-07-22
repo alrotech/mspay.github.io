@@ -27,10 +27,11 @@ Development tools for generating MODX-compatible packages.
 ### [Users and Roles][prj2]
 Managing users, roles, scopes, authorization and authentication, JWT-processing and other related to users and their accounts work.
 
-- Users, Roles and Scopes models and API structure (API)
-- JWT Auth Implementation (API, js)
-- UI for user management (admin)
-- UI for user account (client)
+- [Basic App and API Structure][data-1]
+- [Users, Roles and Scopes][data-2]
+- [JWT Auth Implementation][data-3]
+- [User Management UI][admin-1]
+- [User Account UI][client-1]
 
 ### [Packages and Versions][prj5]
 Managing, uploading, updating and building the packages and their versions.
@@ -73,3 +74,11 @@ Client | [Live](https://client.mspay.by) / [Test](https://lkmspay.netlify.app/) 
 [prj5]: https://github.com/orgs/mspay/projects/5
 [prj6]: https://github.com/orgs/mspay/projects/6
 [prj7]: https://github.com/orgs/mspay/projects/7
+
+[data-1]: https://github.com/mspay/service-api/milestone/1
+[data-2]: https://github.com/mspay/service-api/milestone/2
+[data-3]: https://github.com/mspay/service-api/milestone/3
+
+[admin-1]: https://github.com/mspay/service-admin/milestone/1
+
+[client-1]: https://github.com/mspay/service-client/milestone/1
