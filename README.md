@@ -1,7 +1,8 @@
 # MS Payments Project
 
-Overall description of the project. Some parts may be placed to appropriate repositories, this repository represents the public part of the entire project.
-Generated copy of this documentation available on the website about.mspay.by or mspay.github.io (if original domain by any reason will be lost).
+Overall high-level description of the project. Some parts of documentation and descriptions may be placed to appropriate repositories. This repository represents the public part of the entire project.
+
+Generated copy of this documentation available on the website [about.mspay.by](https://about.mspay.by) or [mspay.github.io](https://mspay.github.io) (if original domain by any reason will be lost).
 
 ## Process (Agile)
 	## Roles?
@@ -10,29 +11,35 @@ Generated copy of this documentation available on the website about.mspay.by or 
 
 ## Projects
 
-#### [Package Builder](^1)
-short description
+Projects on GitHub works as Initiatives from Agile methodology and combine inside all work, related to the goal, that should be reached. Project is overall piece of work, unrelated to any repository, service or any other things. Task in the project can include work under code, documentation stuff, dealing with the authorities, etc.
 
-#### [Payment Gateways](^2)
-short description
+The most improtant goal of project to provide visibility of progress of the work. How much shuuld be done, what left to implmenets and solve, how far or close to the finish we are.
 
-- Public presentation of the entire project
-- Moving to Slim 4 and ADR Architecture - epic?
+Below is a list of active projects with their short descriptions. Follow the links to see progress of each and all linked repositories.
 
-- Управление пользователи (включая авторизацию)
-- Техническая поддержка
-- Управление пакетами и версиями
-- Управление лицензиями
-- Биллинг и оплата
+### [Payment Gateways](^prj1)
+Work related to extensions for payment gateways.
 
-- Package Builder - все что касается сборки
-- Payment Gateways - вся работа по дополнениям, внутри по эпикам раскидывать задачи
+### [Package Builder](^prg4)
+Development tools for generating MODX-compatible packages.
 
+### [Users and Roles]()
+Managing users, roles, scopes, authorization and authentivifation, JWT-processing and other related to users and their accounts work.
 
+### [Packages and Versions]()
+Managing, uploading, updating and building the packages and their versions.
 
+### [Licenses and Protection]()
+Managing licenses, packs of licenses, access keys and all that replated to packages protection, including encryption.
 
+### [Billing and Payments]
+All work that related to receiveing money. Integration of payment system, setting prices and subscruptions, handling cashless payments.
+
+### [Support Area]()
+Managing all customer's requests by any reason.
 
 ## Services
+
 
 
 table of services
@@ -44,6 +51,11 @@ table of services
 
 ## Технологии
 
-[^1]: Footnote
-[^2]: 
-[^3]: 
+[^prj1]: https://github.com/orgs/mspay/projects/1
+[^prj2]: https://github.com/orgs/mspay/projects/2
+[^prj3]: https://github.com/orgs/mspay/projects/3
+[^prj4]: https://github.com/orgs/mspay/projects/4
+[^prj4]: https://github.com/orgs/mspay/projects/5
+[^prj4]: https://github.com/orgs/mspay/projects/6
+[^prj4]: https://github.com/orgs/mspay/projects/7
+
