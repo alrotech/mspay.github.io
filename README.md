@@ -18,25 +18,25 @@ The most important goal of project to provide visibility of the progress of the 
 
 Below is a list of active projects with their short descriptions. Follow the links to see the progress of each and see all linked repositories.
 
-### [Payment Gateways](^prj1)
+### [Payment Gateways](^1)
 Work that is related to extensions for payment gateways.
 
-### [Package Builder](^prg4)
+### [Package Builder](^4)
 Development tools for generating MODX-compatible packages.
 
-### [Users and Roles](^prj2)
+### [Users and Roles](^2)
 Managing users, roles, scopes, authorization and authentication, JWT-processing and other related to users and their accounts work.
 
-### [Packages and Versions](^prj5)
+### [Packages and Versions](^5)
 Managing, uploading, updating and building the packages and their versions.
 
-### [Licenses and Protection](^prg6)
+### [Licenses and Protection](^6)
 Managing licenses, packs of licenses, access keys, and all that replated to packages protection, including encryption.
 
-### [Billing and Payments](^prg3)
+### [Billing and Payments](^3)
 All work that is related to receiving money. Integration of payment system, setting prices and subscriptions, handling cashless payments.
 
-### [Support Area](^prj7)
+### [Support Area](^7)
 Managing all customer's requests for any reason.
 
 ## Services
@@ -51,10 +51,10 @@ Extras | [Live](https://extras.mspay.by) / [Test]() / [Repo](https://github.com/
 Admin | [Live](https://manage.mspay.by) / [Test](https://cpmspay.netlify.app/) / [Repo](https://github.com/mspay/service-admin) | Admin dashboard. While development, it uses a temporary name and hosted on the Netlify
 Client | [Live](https://client.mspay.by) / [Test](https://lkmspay.netlify.app/) / [Repo](https://github.com/mspay/service-client) | Client dashboard. While development, it uses a temporary name and hosted on the Netlify
 
-[^prj1]: https://github.com/orgs/mspay/projects/1
-[^prj2]: https://github.com/orgs/mspay/projects/2
-[^prj3]: https://github.com/orgs/mspay/projects/3
-[^prj4]: https://github.com/orgs/mspay/projects/4
-[^prj4]: https://github.com/orgs/mspay/projects/5
-[^prj4]: https://github.com/orgs/mspay/projects/6
-[^prj4]: https://github.com/orgs/mspay/projects/7
+[1]: https://github.com/orgs/mspay/projects/1
+[2]: https://github.com/orgs/mspay/projects/2
+[3]: https://github.com/orgs/mspay/projects/3
+[4]: https://github.com/orgs/mspay/projects/4
+[5]: https://github.com/orgs/mspay/projects/5
+[6]: https://github.com/orgs/mspay/projects/6
+[7]: https://github.com/orgs/mspay/projects/7
