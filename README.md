@@ -1,55 +1,55 @@
 # MS Payments Project
 
-Overall high-level description of the project. Some parts of documentation and descriptions may be placed to appropriate repositories. This repository represents the public part of the entire project.
+Overall high-level description of the project. Some parts of documentation and descriptions may be placed to appropriate repositories. This repository represents the public part of the entire project. Generated copy of this documentation available on the website [about.mspay.by](https://about.mspay.by) or [mspay.github.io](https://mspay.github.io) (if original domain by any reason will be lost).
 
-Generated copy of this documentation available on the website [about.mspay.by](https://about.mspay.by) or [mspay.github.io](https://mspay.github.io) (if original domain by any reason will be lost).
+## Development Process
 
-## Process (Agile)
-	## Roles?
-	## Teams - process?
+Development process and work in general under the project base on Agile principals but are not fully covered. We are using **Projects**, **Epics**, **User Stories** to describe tasks, that should be done. These terms were adopted a bit to have the ability to use them via built-in tools, that GitHub provides.
 
+That means that we use GitHub Projects for describing [the projects](#Projects), by Agile it is a replacement for _Initiatives_. **Epics** are done via _milestones_ with or without setting the date of end. From an Agile perspective, it may look strange, but the main goal to show real state and progress at any time. **User Stories** are usual _Issues_.
+
+Roles for user stories not strictly defined, it based on the context of usage. In case of a technical story, the role may be a developer, if we a describing user experience, it may be a customer or author of extra, etc.
 
 ## Projects
 
-Projects on GitHub works as Initiatives from Agile methodology and combine inside all work, related to the goal, that should be reached. Project is overall piece of work, unrelated to any repository, service or any other things. Task in the project can include work under code, documentation stuff, dealing with the authorities, etc.
+Projects on GitHub works as Initiatives from Agile methodology and combine inside all work, related to the goal, that should be reached. The project is an overall piece of work, unrelated to any repository, service, or any other things. The task in the project can include work under code, documentation stuff, dealing with the authorities, etc.
 
-The most improtant goal of project to provide visibility of progress of the work. How much shuuld be done, what left to implmenets and solve, how far or close to the finish we are.
+The most important goal of project to provide visibility of the progress of the work. How much should be done, what left to implement and solve, how far from or close to the finish we are.
 
-Below is a list of active projects with their short descriptions. Follow the links to see progress of each and all linked repositories.
+Below is a list of active projects with their short descriptions. Follow the links to see the progress of each and see all linked repositories.
 
 ### [Payment Gateways](^prj1)
-Work related to extensions for payment gateways.
+Work that is related to extensions for payment gateways.
 
 ### [Package Builder](^prg4)
 Development tools for generating MODX-compatible packages.
 
-### [Users and Roles]()
-Managing users, roles, scopes, authorization and authentivifation, JWT-processing and other related to users and their accounts work.
+### [Users and Roles](^prj2)
+Managing users, roles, scopes, authorization and authentication, JWT-processing and other related to users and their accounts work.
 
-### [Packages and Versions]()
+### [Packages and Versions](^prj5)
 Managing, uploading, updating and building the packages and their versions.
 
-### [Licenses and Protection]()
-Managing licenses, packs of licenses, access keys and all that replated to packages protection, including encryption.
+### [Licenses and Protection](^prg6)
+Managing licenses, packs of licenses, access keys, and all that replated to packages protection, including encryption.
 
-### [Billing and Payments]
-All work that related to receiveing money. Integration of payment system, setting prices and subscruptions, handling cashless payments.
+### [Billing and Payments](^prg3)
+All work that is related to receiving money. Integration of payment system, setting prices and subscriptions, handling cashless payments.
 
-### [Support Area]()
-Managing all customer's requests by any reason.
+### [Support Area](^prj7)
+Managing all customer's requests for any reason.
 
 ## Services
 
+Service usually is live environment, available for end-users. As well, based on the context of usage, service may mean a staging/testing environment or repository with a code of service. Below presented matrix of services and their sources and instances.
 
-
-table of services
-название, ссылки, репозитории, описание
-
-
-## Extras
-
-
-## Технологии
+Name | Live | Test | Repository | Description
+---|---|---|---|---
+Langing
+Extras
+Admin
+Client
+Data
 
 [^prj1]: https://github.com/orgs/mspay/projects/1
 [^prj2]: https://github.com/orgs/mspay/projects/2
@@ -58,4 +58,3 @@ table of services
 [^prj4]: https://github.com/orgs/mspay/projects/5
 [^prj4]: https://github.com/orgs/mspay/projects/6
 [^prj4]: https://github.com/orgs/mspay/projects/7
-
