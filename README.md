@@ -61,7 +61,7 @@ Service usually is live environment, available for end-users. As well, based on 
 
 Name | Links | Description
 ---|---|---
-Data | [Live](https://api.mspay.by) / [Test](https://mspay-api.herokuapp.com/) / [Repo](https://github.com/mspay/service-api) | Backend API for marketplace 
+Data | [Live](https://data.mspay.by) / [Test](https://data-msp.herokuapp.com/) / [Repo](https://github.com/mspay/service-data) | Backend API for marketplace 
 Langing | [Live](https://mspay.by) / [Test](https://mspay.netlify.app) / [Repo](https://github.com/mspay/service-langing) | The main website of the payment solutions service
 Extras | [Live](https://extras.mspay.by) / [Test]() / [Repo](https://github.com/mspay/service-extras) | Repository REST service for MODX, based on Slim Framework
 Admin | [Live](https://manage.mspay.by) / [Test](https://cpmspay.netlify.app/) / [Repo](https://github.com/mspay/service-admin) | Admin dashboard. While development, it uses a temporary name and hosted on the Netlify
